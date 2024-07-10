@@ -1,3 +1,5 @@
+NOTE: The project is in master branch 
+
 # Calculator App
 
 This is a basic Calculator App with the following functions:
